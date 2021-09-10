@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Cromega (@Cromega08)
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and Databases
+- 💞️ I’m looking to collaborate on projects that could bring me experience in the field

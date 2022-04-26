@@ -10,7 +10,7 @@ I've be learning Data Science since a year, and currently learning Web3 being in
 * 🚀  I'm currently working on [100 days of code (challenge)](http://https://github.com/cromega08/100-days-of-cromega-code)
 * 🧠  I'm learning Web3 development and DApps
 * 🤝  I'm open to collaborating on Projects of all type, as a junior
-* ⚡  Superbus at Hedonistic~
+* ⚡  Superbus et Hedonistic~
 
 ### Skills
 

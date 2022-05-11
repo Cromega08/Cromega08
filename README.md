@@ -4,7 +4,7 @@ Hi 👋 My name is Cromega
 Web3, DApps and Data Science student.
 -------------------------------------
 
-I've be learning Data Science since a year, and currently learning Web3 being interested in blockchain technologies. Knowledge in Python and DB/SQL, and learning HTML/CSS/TS/SOL/EX, not all at the same time.
+I've be learning Data Science since a year, and currently learning Web3 being interested in blockchain technologies. Knowledge in Python, and learning HTML/CSS/JS, not all at the same time.
 
 * ✉️  You can contact me at [cr.jrg08@gmail.com](mailto:cr.jrg08@gmail.com)
 * 🚀  I'm currently working on [100 days of code (challenge)](http://https://github.com/cromega08/100-days-of-cromega-code)

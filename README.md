@@ -1,7 +1,7 @@
 Hi 👋 My name is Cromega
 ========================
 
-Web3/DApps developer student.
+Web3/DApps developer in formation.
 -------------------------------------
 
 I've be learning Data Science since a year, and currently learning Web3 being interested in blockchain technologies. Knowledge in Python, and learning HTML/CSS/JS, not all at the same time.

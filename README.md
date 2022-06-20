@@ -1,4 +1,4 @@
-Hi 👋 My name is Cromega
+Cromega: Superbus et Hedonistic~
 ========================
 
 Web3/DApps developer in formation.

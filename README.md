@@ -4,7 +4,7 @@ Cromega: Superbus et Hedonistic~
 FullStack developer in formation.
 -------------------------------------
 
-FrontEnd Developer and FullStack Developer in formation, . Knowledge in Python, Java and HTML/CSS/JS. Currently interested in learning Kotlin, Rust, Elixir, Crystal and/or V languages.
+FrontEnd Developer and FullStack Developer in formation, interested to be a BlockChain Developer (Web3/DApps). Knowledge in Python, Java and HTML/CSS/JS. Currently interested in learning Kotlin, Rust, Elixir, Crystal and/or V languages.
 
 * ✉️  You can contact me at [cr.jrg08@gmail.com](mailto:cr.jrg08@gmail.com)
 * 🚀  I'm currently studying with "MisionTIC - 2022"

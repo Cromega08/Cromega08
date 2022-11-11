@@ -18,7 +18,7 @@ FrontEnd Developer and FullStack Developer in formation, interested to be a Bloc
   <img src="https://img.shields.io/badge/-HTML-720404?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=50" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-720404?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=50" alt="CSS">
   <img src="https://img.shields.io/badge/-Javascript-720404?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Java-720404?logo=data:'https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg'/png;base64&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="Java">
+  <img src="https://img.shields.io/badge/-Java-720404?logo='./imgs/java_scaled.png'&style=for-the-badge&logoWidth=50" alt="Java">
   <img src="https://img.shields.io/badge/-Python-720404?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=50" alt="Python">
   <img src="https://img.shields.io/badge/-XML-720404?logo=xml&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="XML">
   <img src="https://img.shields.io/badge/-React-720404?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=50" alt="React">

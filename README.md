@@ -39,7 +39,8 @@ You can find me 🖖 or contact me 🤙 at 👇
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-720404?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=50" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-720404?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=50" alt="CSS">
-  <img src="https://img.shields.io/badge/-Javascript-720404?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-JavaScript-720404?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-JSON-720404?logo=json&logoColor=000000&style=for-the-badge&logoWidth=50" alt="JSON">
   <img src="https://img.shields.io/badge/-Java-720404?logo='./imgs/java_scaled.png'&style=for-the-badge&logoWidth=50" alt="Java">
   <img src="https://img.shields.io/badge/-Python-720404?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=50" alt="Python">
   <img src="https://img.shields.io/badge/-XML-720404?logo=xml&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="XML">
@@ -64,6 +65,7 @@ You can find me 🖖 or contact me 🤙 at 👇
 <div align="center">
   <img src="https://img.shields.io/badge/-React-720404?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=50" alt="React">
   <img src="https://img.shields.io/badge/-Bootstrap-720404?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=50" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Spring Boot-720404?logo=spring boot&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring Boot">
 </div>
 
 ### 📑 DB
@@ -89,20 +91,24 @@ You can find me 🖖 or contact me 🤙 at 👇
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
-  <img src="https://img.shields.io/badge/-Git-720404?logo=canva&logoColor=F05032&style=for-the-badge&logoWidth=50" alt="Github">
+  <img src="https://img.shields.io/badge/-Git-720404?logo=canva&logoColor=F05032&style=for-the-badge&logoWidth=50" alt="Git">
   <img src="https://img.shields.io/badge/-VSCode-720404?logo=visual studio code&logoColor=007ACC&style=for-the-badge&logoWidth=50" alt="VSCode">
   <img src="https://img.shields.io/badge/-IntelliJ Idea-720404?logo=intellij idea&logoColor=000000&style=for-the-badge&logoWidth=50" alt="IntelliJ Idea">
   <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
+  <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagramas.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
 </div>
 
 ### 📓 Interested in learning
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Typecript-720404?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=50" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-TypeScript-720404?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=50" alt="Typescript">
   <img src="https://img.shields.io/badge/-Solidity-720404?logo=solidity&logoColor=363636&style=for-the-badge&logoWidth=50" alt="Solidity">
   <img src="https://img.shields.io/badge/-Kotlin-720404?logo=kotlin&logoColor=F52FF&style=for-the-badge&logoWidth=50" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-Zig-720404?logo=zig&logoColor=F7A41D&style=for-the-badge&logoWidth=50" alt="Zig">
   <img src="https://img.shields.io/badge/-Sass-720404?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=50" alt="Sass">
+  <img src="https://img.shields.io/badge/-Deno-720404?logo=deno&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Deno">
+  <img src="https://img.shields.io/badge/-Spring-720404?logo=spring&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring">
   <img src="https://img.shields.io/badge/-SurrealDB-720404?logo=surrealdb&logoColor=FF00A0&style=for-the-badge&logoWidth=50" alt="SurrealDB">
   <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=50" alt="MongoDB">
   <img src="https://img.shields.io/badge/-Docker-720404?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=50" alt="Docker">
@@ -150,6 +156,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   
 👑
 > _天上天下唯我独尊_ <br/> _tenjou tenge yui ga dokuson_ <br/> _Entre el cielo y la tierra, solo estoy yo_ <br/> _Between heaven and earth, there's only me_ <br/> **- _Buda_ -**<br/>
+
 👹
 
   <img src="https://media.tenor.com/Tr_v0-toZkoAAAAd/sakuna-fool.gif" alt="Know Your Place" title="Know Your Place"/>

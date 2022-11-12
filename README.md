@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/cromega_banner.png?raw=true" alt="Cromega Footer"/>
+</div>
 
-# 👑 Greetings, I'm Cromega
+# 👑 Cromega: Superbus et Hedonistic~
 
 I'm a Jr. Developer specialized in FrontEnd and Android Development.
 

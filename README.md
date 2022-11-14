@@ -41,7 +41,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-CSS-720404?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=50" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-720404?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="JavaScript">
   <img src="https://img.shields.io/badge/-JSON-720404?logo=json&logoColor=000000&style=for-the-badge&logoWidth=50" alt="JSON">
-  <img src="https://img.shields.io/badge/-Java-720404?logo='./imgs/java_scaled.png'&style=for-the-badge&logoWidth=50" alt="Java">
+  <img src="https://img.shields.io/badge/-Java-720404?logo=openjdk&logoColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Java">
   <img src="https://img.shields.io/badge/-Python-720404?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=50" alt="Python">
   <img src="https://img.shields.io/badge/-XML-720404?logo=xml&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="XML">
   <img src="https://img.shields.io/badge/-Bash-720404?logo=gnubash&logoColor=4EAA25&style=for-the-badge&logoWidth=50" alt="Bash">
@@ -95,7 +95,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-VSCode-720404?logo=visual studio code&logoColor=007ACC&style=for-the-badge&logoWidth=50" alt="VSCode">
   <img src="https://img.shields.io/badge/-IntelliJ Idea-720404?logo=intellij idea&logoColor=000000&style=for-the-badge&logoWidth=50" alt="IntelliJ Idea">
   <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
-  <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagramas.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
+  <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagrams.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
 </div>
 
 ### 📓 Interested in learning

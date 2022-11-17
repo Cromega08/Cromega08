@@ -18,6 +18,9 @@ You can find me 🖖 or contact me 🤙 at 👇
   <a href="https://www.github.com/cromega08" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
   </a>
+  <a href="https://www.linkedin.com/in/crjrg/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-720404?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=50" alt="Github">
+  </a>
   <a href="https://www.codepen.io/cromega08" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-CodePen-720404?logo=codepen&logoColor=000000&style=for-the-badge&logoWidth=50" alt="CodePen">
   </a>
@@ -66,6 +69,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-React-720404?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=50" alt="React">
   <img src="https://img.shields.io/badge/-Bootstrap-720404?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=50" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Spring Boot-720404?logo=spring boot&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-NumPy-720404?logo=numpy&logoColor=013243&style=for-the-badge&logoWidth=50" alt="Spring Boot">
 </div>
 
 ### 📑 DB
@@ -76,6 +80,27 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-MySQL-720404?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=50" alt="MySQL">
 </div>
 
+### 🧰 Tools
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-720404?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=50" alt="Git">
+  <img src="https://img.shields.io/badge/-PyPi / pip-720404?logo=pypi&logoColor=3775A9&style=for-the-badge&logoWidth=50" alt="PyPi/pip">
+  <img src="https://img.shields.io/badge/-npm-720404?logo=npm&logoColor=CB3837&style=for-the-badge&logoWidth=50" alt="npm">
+</div>
+
+### 💻 Software
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
+  <img src="https://img.shields.io/badge/-VSCode-720404?logo=visual studio code&logoColor=007ACC&style=for-the-badge&logoWidth=50" alt="VSCode">
+  <img src="https://img.shields.io/badge/-IntelliJ Idea-720404?logo=intellij idea&logoColor=000000&style=for-the-badge&logoWidth=50" alt="IntelliJ Idea">
+  <img src="https://img.shields.io/badge/-Jupyter-720404?logo=jupyter&logoColor=F37626&style=for-the-badge&logoWidth=50" alt="Github">
+  <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
+  <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagrams.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
+</div>
+
 ### 🖥️ OS I worked with
 ---
 
@@ -84,18 +109,6 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-Android-720404?logo=android&logoColor=3DDC84&style=for-the-badge&logoWidth=50" alt="Android">
   <img src="https://img.shields.io/badge/-Linux-720404?logo=linux&logoColor=FCC624&style=for-the-badge&logoWidth=50" alt="Linux">
   <img src="https://img.shields.io/badge/-Windows-720404?logo=windows&logoColor=0078D6&style=for-the-badge&logoWidth=50" alt="Windows">
-</div>
-
-### 🧰 Software and Tools
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
-  <img src="https://img.shields.io/badge/-Git-720404?logo=canva&logoColor=F05032&style=for-the-badge&logoWidth=50" alt="Git">
-  <img src="https://img.shields.io/badge/-VSCode-720404?logo=visual studio code&logoColor=007ACC&style=for-the-badge&logoWidth=50" alt="VSCode">
-  <img src="https://img.shields.io/badge/-IntelliJ Idea-720404?logo=intellij idea&logoColor=000000&style=for-the-badge&logoWidth=50" alt="IntelliJ Idea">
-  <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
-  <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagrams.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
 </div>
 
 ### 📓 Interested in learning
@@ -111,6 +124,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-Spring-720404?logo=spring&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring">
   <img src="https://img.shields.io/badge/-SurrealDB-720404?logo=surrealdb&logoColor=FF00A0&style=for-the-badge&logoWidth=50" alt="SurrealDB">
   <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=50" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-GraphQL-720404?logo=graphql&logoColor=E10098&style=for-the-badge&logoWidth=50" alt="GraphQL">
   <img src="https://img.shields.io/badge/-Docker-720404?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=50" alt="Docker">
   <img src="https://img.shields.io/badge/-Ethereum-720404?logo=ethereum&logoColor=3C3C3D&style=for-the-badge&logoWidth=50" alt="Ethereum">
   <img src="https://img.shields.io/badge/-Web3.js-720404?logo=web3.js&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Web3.js">
@@ -146,17 +160,16 @@ You can find me 🖖 or contact me 🤙 at 👇
 <br/><br/>
 👓 I am quite erudite, being the holder of a scholarship 👨‍🎓 and the best state test 📄 in my high school graduation (top 50 in my city 🏙️).
 <br/><br/>
-🎓 I have 2 technical degrees that I studied while I was in secondary school and high school 🏫, oriented towards administration, finance and marketing 👨‍💼. And have another thanks to my scholarship, centered in Android Development 👨‍💻.
+🎓 I have 4 technical degrees: 2️⃣ Two that I studied while I was in secondary school and high school 🏫, oriented towards administration, finance and marketing 👨‍💼; and other 2️⃣ two thanks to my scholarship, centered in Android Development and Web Development 👨‍💻.
 <br/><br/>
 🫰 On things of absolute leisure, I love anime 📺, manga 📙, videogames 👾 and asian dramas 👩‍❤️‍💋‍👨, but not obsessed with Asia 🌏.
 <br/><br/>
-🥫 I love food too, specially sweet 🍰 and fried 🍤 things; but also other things as chocolate 🍫, pizza 🍕, burger 🍔, sushi 🍣, and many drinks 🥃 (but not alcoholic drinks 🥛, thats are disgusting 🤮).
+🥫 I love food too, specially sweet 🍰 and fried 🍤 things; but also other things as chocolate 🍫, pizza 🍕, burger 🍔, sushi 🍣, and many drinks 🥛 (but not alcoholic drinks 🥃, thats are disgusting 🤮).
 
 <div align="center">
   
 👑
 > _天上天下唯我独尊_ <br/> _tenjou tenge yui ga dokuson_ <br/> _Entre el cielo y la tierra, solo estoy yo_ <br/> _Between heaven and earth, there's only me_ <br/> **- _Buda_ -**<br/>
-
 👹
 
   <img src="https://media.tenor.com/Tr_v0-toZkoAAAAd/sakuna-fool.gif" alt="Know Your Place" title="Know Your Place"/>

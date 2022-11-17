@@ -170,6 +170,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   
 👑
 > _天上天下唯我独尊_ <br/> _tenjou tenge yui ga dokuson_ <br/> _Entre el cielo y la tierra, solo estoy yo_ <br/> _Between heaven and earth, there's only me_ <br/> **- _Buda_ -**<br/>
+
 👹
 
   <img src="https://media.tenor.com/Tr_v0-toZkoAAAAd/sakuna-fool.gif" alt="Know Your Place" title="Know Your Place"/>

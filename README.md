@@ -62,14 +62,13 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-V-720404?logo=v&logoColor=5D87BF&style=for-the-badge&logoWidth=50" alt="V">
 </div>
 
-### ⚛️ Frameworks and Libraries
+### ⚛️ Frameworks
 ---
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-720404?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=50" alt="React">
   <img src="https://img.shields.io/badge/-Bootstrap-720404?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=50" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Spring Boot-720404?logo=spring boot&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/-NumPy-720404?logo=numpy&logoColor=013243&style=for-the-badge&logoWidth=50" alt="Spring Boot">
 </div>
 
 ### 📑 DB

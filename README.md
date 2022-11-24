@@ -43,11 +43,11 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-HTML-720404?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=50" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-720404?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=50" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-720404?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-JSON-720404?logo=json&logoColor=000000&style=for-the-badge&logoWidth=50" alt="JSON">
   <img src="https://img.shields.io/badge/-Java-720404?logo=openjdk&logoColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Java">
   <img src="https://img.shields.io/badge/-Python-720404?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=50" alt="Python">
   <img src="https://img.shields.io/badge/-XML-720404?logo=xml&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="XML">
   <img src="https://img.shields.io/badge/-Bash-720404?logo=gnubash&logoColor=4EAA25&style=for-the-badge&logoWidth=50" alt="Bash">
+  <img src="https://img.shields.io/badge/-SHELL-720404?style=for-the-badge&logoWidth=50" alt="SHELL">  
   <img src="https://img.shields.io/badge/-Markdown-720404?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Markdown">
 </div>
 
@@ -62,7 +62,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-V-720404?logo=v&logoColor=5D87BF&style=for-the-badge&logoWidth=50" alt="V">
 </div>
 
-### ⚛️ Frameworks
+### ⚛️ Frameworks and Libraries
 ---
 
 <div align="center">

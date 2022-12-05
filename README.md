@@ -87,6 +87,9 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-Git-720404?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=50" alt="Git">
   <img src="https://img.shields.io/badge/-PyPi / pip-720404?logo=pypi&logoColor=3775A9&style=for-the-badge&logoWidth=50" alt="PyPi/pip">
   <img src="https://img.shields.io/badge/-npm-720404?logo=npm&logoColor=CB3837&style=for-the-badge&logoWidth=50" alt="npm">
+  <img src="https://img.shields.io/badge/-Cargo-720404?logo=cargo&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Cargo">
+  <img src="https://img.shields.io/badge/-Gradle-720404?logo=gradle&logoColor=02303A&style=for-the-badge&logoWidth=50" alt="Gradle">
+  <img src="https://img.shields.io/badge/-Maven-720404?logo=apache maven&logoColor=C71A36&style=for-the-badge&logoWidth=50" alt="Maven">
 </div>
 
 ### 💻 Software
@@ -97,6 +100,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-VSCode-720404?logo=visual studio code&logoColor=007ACC&style=for-the-badge&logoWidth=50" alt="VSCode">
   <img src="https://img.shields.io/badge/-IntelliJ Idea-720404?logo=intellij idea&logoColor=000000&style=for-the-badge&logoWidth=50" alt="IntelliJ Idea">
   <img src="https://img.shields.io/badge/-Jupyter-720404?logo=jupyter&logoColor=F37626&style=for-the-badge&logoWidth=50" alt="Github">
+  <img src="https://img.shields.io/badge/-Figma-720404?logo=figma&logoColor=F24E1E&style=for-the-badge&logoWidth=50" alt="Figma">
   <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
   <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagrams.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
 </div>
@@ -115,13 +119,17 @@ You can find me 🖖 or contact me 🤙 at 👇
 ---
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-Kotlin-720404?logo=kotlin&logoColor=F52FF&style=for-the-badge&logoWidth=50" alt="Kotlin">
   <img src="https://img.shields.io/badge/-TypeScript-720404?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=50" alt="Typescript">
   <img src="https://img.shields.io/badge/-Solidity-720404?logo=solidity&logoColor=363636&style=for-the-badge&logoWidth=50" alt="Solidity">
-  <img src="https://img.shields.io/badge/-Kotlin-720404?logo=kotlin&logoColor=F52FF&style=for-the-badge&logoWidth=50" alt="Kotlin">
   <img src="https://img.shields.io/badge/-Zig-720404?logo=zig&logoColor=F7A41D&style=for-the-badge&logoWidth=50" alt="Zig">
-  <img src="https://img.shields.io/badge/-Sass-720404?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=50" alt="Sass">
-  <img src="https://img.shields.io/badge/-Deno-720404?logo=deno&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Deno">
+  <img src="https://img.shields.io/badge/-Haskell-720404?logo=haskell&logoColor=5D4F85&style=for-the-badge&logoWidth=50" alt="Haskell">
+  <img src="https://img.shields.io/badge/-Elm-720404?logo=elm&logoColor=1293D8&style=for-the-badge&logoWidth=50" alt="Elm">
   <img src="https://img.shields.io/badge/-Spring-720404?logo=spring&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring">
+  <img src="https://img.shields.io/badge/-PostCSS-720404?logo=postcss&logoColor=DD3A0A&style=for-the-badge&logoWidth=50" alt="postcss">
+  <img src="https://img.shields.io/badge/-Sass-720404?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=50" alt="Sass">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-720404?logo=tailwind css&logoColor=06B6D4&style=for-the-badge&logoWidth=50" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/-Deno-720404?logo=deno&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Deno">
   <img src="https://img.shields.io/badge/-SurrealDB-720404?logo=surrealdb&logoColor=FF00A0&style=for-the-badge&logoWidth=50" alt="SurrealDB">
   <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=50" alt="MongoDB">
   <img src="https://img.shields.io/badge/-GraphQL-720404?logo=graphql&logoColor=E10098&style=for-the-badge&logoWidth=50" alt="GraphQL">
@@ -129,7 +137,6 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-Ethereum-720404?logo=ethereum&logoColor=3C3C3D&style=for-the-badge&logoWidth=50" alt="Ethereum">
   <img src="https://img.shields.io/badge/-Web3.js-720404?logo=web3.js&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Web3.js">
   <img src="https://img.shields.io/badge/-p5.js-720404?logo=p5.js&logoColor=ED225D&style=for-the-badge&logoWidth=50" alt="p5.js">
-  <img src="https://img.shields.io/badge/-Figma-720404?logo=figma&logoColor=F24E1E&style=for-the-badge&logoWidth=50" alt="Figma">
 </div>
 
 ## 💎 Coder Stats

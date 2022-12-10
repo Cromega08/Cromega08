@@ -78,6 +78,8 @@ You can find me 🖖 or contact me 🤙 at 👇
 <div align="center">
   <img src="https://img.shields.io/badge/-Firebase-720404?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=50" alt="Firebase">
   <img src="https://img.shields.io/badge/-MySQL-720404?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=50" alt="MySQL">
+    <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=50" alt="MongoDB">
+
 </div>
 
 ### 🧰 Tools
@@ -96,13 +98,16 @@ You can find me 🖖 or contact me 🤙 at 👇
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
   <img src="https://img.shields.io/badge/-VSCode-720404?logo=visual studio code&logoColor=007ACC&style=for-the-badge&logoWidth=50" alt="VSCode">
   <img src="https://img.shields.io/badge/-IntelliJ Idea-720404?logo=intellij idea&logoColor=000000&style=for-the-badge&logoWidth=50" alt="IntelliJ Idea">
   <img src="https://img.shields.io/badge/-Jupyter-720404?logo=jupyter&logoColor=F37626&style=for-the-badge&logoWidth=50" alt="Github">
+  <br/>
   <img src="https://img.shields.io/badge/-Figma-720404?logo=figma&logoColor=F24E1E&style=for-the-badge&logoWidth=50" alt="Figma">
   <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
   <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagrams.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
+  <br/>
+    <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
+
 </div>
 
 ### 🖥️ OS I worked with
@@ -131,7 +136,6 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-Tailwind CSS-720404?logo=tailwind css&logoColor=06B6D4&style=for-the-badge&logoWidth=50" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/-Deno-720404?logo=deno&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Deno">
   <img src="https://img.shields.io/badge/-SurrealDB-720404?logo=surrealdb&logoColor=FF00A0&style=for-the-badge&logoWidth=50" alt="SurrealDB">
-  <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=50" alt="MongoDB">
   <img src="https://img.shields.io/badge/-GraphQL-720404?logo=graphql&logoColor=E10098&style=for-the-badge&logoWidth=50" alt="GraphQL">
   <img src="https://img.shields.io/badge/-Docker-720404?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=50" alt="Docker">
   <img src="https://img.shields.io/badge/-Ethereum-720404?logo=ethereum&logoColor=3C3C3D&style=for-the-badge&logoWidth=50" alt="Ethereum">

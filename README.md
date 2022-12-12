@@ -158,7 +158,7 @@ You can find me 🖖 or contact me 🤙 at 👇
 ---
 
 <div align="center">
-  <a href="http://www.github.com/cromega08"><img src="https://activity-graph.herokuapp.com/graph?username=cromega08&bg_color=1c1917&color=a855f7&line=6366f1&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/cromega08"><img src="https://activity-graph.herokuapp.com/graph?username=cromega08&bg_color=1c1917&color=a855f7&line=6366f1&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=Cromega%20Commits%20Graph" alt="Cromega Commits Graph" /></a>
 </div>
 
 ## 🤴 Curiosities About Me

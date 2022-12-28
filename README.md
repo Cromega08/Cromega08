@@ -106,8 +106,8 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
   <img src="https://img.shields.io/badge/-diagrams.net/draw.io-720404?logo=diagrams.net&logoColor=F08705&style=for-the-badge&logoWidth=50" alt="diagramas.net/draw.io">
   <br/>
-    <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
-
+  <img src="https://img.shields.io/badge/-Postman-720404?logo=postman&logoColor=FF6C37&style=for-the-badge&logoWidth=50" alt="Postman">
+  <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
 </div>
 
 ### 🖥️ OS I worked with

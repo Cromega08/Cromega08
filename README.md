@@ -31,10 +31,10 @@ You can find me 🖖 or contact me 🤙 at 👇
 </div>
 
 ## 📚 Skills
-
+<!-- 
 <div align="center">
   <a href="https://github.com/cromega08" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cromega08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+</div> -->
 
 ### 📘 Experienced Languages 
 ---
@@ -145,9 +145,9 @@ You can find me 🖖 or contact me 🤙 at 👇
 
 ## 💎 Coder Stats
 
-<div align="center">
+<!-- <div align="center">
   <a href="http://www.github.com/cromega08"><img src="https://github-readme-stats.vercel.app/api?username=cromega08&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="cromega08's GitHub stats" /></a>
-</div>
+</div> -->
 
 ---
 
@@ -158,7 +158,7 @@ You can find me 🖖 or contact me 🤙 at 👇
 ---
 
 <div align="center">
-  <a href="http://www.github.com/cromega08"><img src="https://activity-graph.herokuapp.com/graph?username=cromega08&bg_color=1c1917&color=a855f7&line=6366f1&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=Cromega%20Commits%20Graph" alt="Cromega Commits Graph" /></a>
+  <a href="http://www.github.com/cromega08"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cromega08&bg_color=1c1917&color=a855f7&line=6366f1&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=Cromega%20Commits%20Graph" alt="Cromega Commits Graph" /></a>
 </div>
 
 ## 🤴 Curiosities About Me

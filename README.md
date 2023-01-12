@@ -4,13 +4,13 @@
 
 # 👑 Cromega: Superbus et Hedonistic~
 
-I'm a Jr. Developer specialized in FrontEnd and Android Development.
+I'm a Jr. Developer specialized in FullStack and Android Development.
 
 I have a strong interest in building projects that are accessible to everyone and have a planned and meaningful aesthetic.
 
 Learning new things is my passion, I have an obsession for knowledge in general that drives me as much as I can in all fields of my interest.
 
-In the short term I'm preparing myself to become a fullstack developer, and later on to make the leap to Web3/DApps/Blockchain technologies.
+In the short term I'm improving my knowledge in web and related, to make the leap to Web3/DApps/Blockchain technologies.
 
 You can find me 🖖 or contact me 🤙 at 👇
 

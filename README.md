@@ -43,6 +43,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-HTML-720404?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=50" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-720404?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=50" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-720404?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-PHP-720404?logo=php&logoColor=777BB4&style=for-the-badge&logoWidth=50" alt="PHP">
   <img src="https://img.shields.io/badge/-Java-720404?logo=openjdk&logoColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Java">
   <img src="https://img.shields.io/badge/-Python-720404?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=50" alt="Python">
   <img src="https://img.shields.io/badge/-XML-720404?logo=xml&logoColor=F7DF1E&style=for-the-badge&logoWidth=50" alt="XML">
@@ -101,6 +102,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-VSCode-720404?logo=visual studio code&logoColor=007ACC&style=for-the-badge&logoWidth=50" alt="VSCode">
   <img src="https://img.shields.io/badge/-IntelliJ Idea-720404?logo=intellij idea&logoColor=000000&style=for-the-badge&logoWidth=50" alt="IntelliJ Idea">
   <img src="https://img.shields.io/badge/-Jupyter-720404?logo=jupyter&logoColor=F37626&style=for-the-badge&logoWidth=50" alt="Github">
+   <img src="https://img.shields.io/badge/-DBeaver-720404?logo=dbeavercode&logoColor=000000&style=for-the-badge&logoWidth=50" alt="DBeaver">
   <br/>
   <img src="https://img.shields.io/badge/-Figma-720404?logo=figma&logoColor=F24E1E&style=for-the-badge&logoWidth=50" alt="Figma">
   <img src="https://img.shields.io/badge/-Canva-720404?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=50" alt="Canva">
@@ -108,6 +110,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <br/>
   <img src="https://img.shields.io/badge/-Postman-720404?logo=postman&logoColor=FF6C37&style=for-the-badge&logoWidth=50" alt="Postman">
   <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
+  <img src="https://img.shields.io/badge/-Genymotion-720404?logo=dbeavercode&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Genymotion">
 </div>
 
 ### 🖥️ OS I worked with
@@ -149,7 +152,7 @@ You can find me 🖖 or contact me 🤙 at 👇
   <a href="http://www.github.com/cromega08"><img src="https://github-readme-stats.vercel.app/api?username=cromega08&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="cromega08's GitHub stats" /></a>
 </div> -->
 
----
+<!-- --- -->
 
 <div align="center">
   <a href="http://www.github.com/cromega08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cromega08&stroke=a855f7&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>

@@ -31,10 +31,10 @@ You can find me 🖖 or contact me 🤙 at 👇
 </div>
 
 ## 📚 Skills
-<!-- 
+
 <div align="center">
   <a href="https://github.com/cromega08" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cromega08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div> -->
+</div>
 
 ### 📘 Experienced Languages 
 ---
@@ -79,8 +79,7 @@ You can find me 🖖 or contact me 🤙 at 👇
 <div align="center">
   <img src="https://img.shields.io/badge/-Firebase-720404?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=50" alt="Firebase">
   <img src="https://img.shields.io/badge/-MySQL-720404?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=50" alt="MySQL">
-    <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=50" alt="MongoDB">
-
+  <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=50" alt="MongoDB">
 </div>
 
 ### 🧰 Tools
@@ -148,9 +147,9 @@ You can find me 🖖 or contact me 🤙 at 👇
 
 ## 💎 Coder Stats
 
-<!-- <div align="center">
+<div align="center">
   <a href="http://www.github.com/cromega08"><img src="https://github-readme-stats.vercel.app/api?username=cromega08&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="cromega08's GitHub stats" /></a>
-</div> -->
+</div>
 
 <!-- --- -->
 
@@ -166,13 +165,13 @@ You can find me 🖖 or contact me 🤙 at 👇
 
 ## 🤴 Curiosities About Me
 
-🖤 As said before, I love the knowledge 📖, try to learn everythin i can 📚, sometimes very disastrously 😵‍💫. And don't have an specific topic, know from economics to philosophy, astronomy, physics, languages and multitude of subjects 👨‍🔬 (not at a professional/expert level, but as a general culture thing).
+🖤 As said before, I love the knowledge 📖, try to learn everything I can 📚, sometimes very disastrously 😵‍💫. Don't have an specific topic, know from economics to philosophy, astronomy, physics, languages and multitude of subjects 👨‍🔬 (not an expert, but as a general culture thing).
 <br/><br/>
 💻 I started in coding learning Data-Science with Python, and just tried HTML/CSS because (supposedly 🙄) "Every developer should know HTML/CSS/JS", but ended in love with UI/UX design 👨‍🎨. This is an example of how I jump from topic to topic while learning 😆.
 <br/><br/>
 💬 I speak Spanish 🔤 and English 🇺🇸, and the most basics of French 🇫🇷. Spanish is my language of birth 🇻🇪, English is the language I do everything in my daily life 🌇, and French is an investment in my life plan ✈️.
 <br/><br/>
-👓 I am quite erudite, being the holder of a scholarship 👨‍🎓 and the best state test 📄 in my high school graduation (top 50 in my city 🏙️).
+👓 I am quite erudite, was the recipient of a scholarship 👨‍🎓 and the best state test 📄 in my high school graduation (top 50 in my city 🏙️).
 <br/><br/>
 🎓 I have 4 technical degrees: 2️⃣ Two that I studied while I was in secondary school and high school 🏫, oriented towards administration, finance and marketing 👨‍💼; and other 2️⃣ two thanks to my scholarship, centered in Android Development and Web Development 👨‍💻.
 <br/><br/>

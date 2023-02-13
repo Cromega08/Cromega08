@@ -69,9 +69,11 @@ You can find me 🖖 or contact me 🤙 at 👇
 <div align="center">
   <img src="https://img.shields.io/badge/-React-720404?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=50" alt="React">
   <img src="https://img.shields.io/badge/-Swing-720404?logo=swing&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Swing">
+  </br>
   <img src="https://img.shields.io/badge/-Bootstrap-720404?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=50" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-UIkit-720404?logo=uikit&logoColor=2396F3&style=for-the-badge&logoWidth=50" alt="UIkit">
   <img src="https://img.shields.io/badge/-Pico.css-720404?logo=pico.css&logoColor=7952B3&style=for-the-badge&logoWidth=50" alt="Pico.css">
+    </br>
   <img src="https://img.shields.io/badge/-Spring Boot-720404?logo=spring boot&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring Boot">
 </div>
 

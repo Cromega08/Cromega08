@@ -116,9 +116,7 @@ You can find me 🖖 or contact me 🤙 at 👇
 
 ### 🖥️ OS I worked with
 ---
-
 <div align="center">
-  <img src="https://img.shields.io/badge/-Ubuntu-720404?logo=ubuntu&logoColor=E95420&style=for-the-badge&logoWidth=50" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-Android-720404?logo=android&logoColor=3DDC84&style=for-the-badge&logoWidth=50" alt="Android">
   <img src="https://img.shields.io/badge/-Linux-720404?logo=linux&logoColor=FCC624&style=for-the-badge&logoWidth=50" alt="Linux">
   <img src="https://img.shields.io/badge/-Windows-720404?logo=windows&logoColor=0078D6&style=for-the-badge&logoWidth=50" alt="Windows">
@@ -132,19 +130,29 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-TypeScript-720404?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=50" alt="Typescript">
   <img src="https://img.shields.io/badge/-Solidity-720404?logo=solidity&logoColor=363636&style=for-the-badge&logoWidth=50" alt="Solidity">
   <img src="https://img.shields.io/badge/-Zig-720404?logo=zig&logoColor=F7A41D&style=for-the-badge&logoWidth=50" alt="Zig">
-  <img src="https://img.shields.io/badge/-Haskell-720404?logo=haskell&logoColor=5D4F85&style=for-the-badge&logoWidth=50" alt="Haskell">
+  <img src="https://img.shields.io/badge/-Go-720404?logo=go&logoColor=00ADD85&style=for-the-badge&logoWidth=50" alt="Go">
   <img src="https://img.shields.io/badge/-Elm-720404?logo=elm&logoColor=1293D8&style=for-the-badge&logoWidth=50" alt="Elm">
-  <img src="https://img.shields.io/badge/-Spring-720404?logo=spring&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring">
+  </br>
   <img src="https://img.shields.io/badge/-PostCSS-720404?logo=postcss&logoColor=DD3A0A&style=for-the-badge&logoWidth=50" alt="postcss">
   <img src="https://img.shields.io/badge/-Sass-720404?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=50" alt="Sass">
-  <img src="https://img.shields.io/badge/-Tailwind CSS-720404?logo=tailwind css&logoColor=06B6D4&style=for-the-badge&logoWidth=50" alt="Tailwind CSS">
+  </br>
+  <img src="https://img.shields.io/badge/-Angular-720404?logo=angular&logoColor=DD0031&style=for-the-badge&logoWidth=50" alt="Angular">
+  <img src="https://img.shields.io/badge/-Spring-720404?logo=spring&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring">
+  
+  </br>
+  <img src="https://img.shields.io/badge/-Material Design-720404?logo=material design&logoColor=757575&style=for-the-badge&logoWidth=50" alt="Material Design">
+  <img src="https://img.shields.io/badge/-MUI-720404?logo=mui&logoColor=007FFF&style=for-the-badge&logoWidth=50" alt="MUI">
+  <img src="https://img.shields.io/badge/-p5.js-720404?logo=p5.js&logoColor=ED225D&style=for-the-badge&logoWidth=50" alt="p5.js">
+  </br>
   <img src="https://img.shields.io/badge/-Deno-720404?logo=deno&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Deno">
+  <img src="https://img.shields.io/badge/-Docker-720404?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=50" alt="Docker">
+  </br>
   <img src="https://img.shields.io/badge/-SurrealDB-720404?logo=surrealdb&logoColor=FF00A0&style=for-the-badge&logoWidth=50" alt="SurrealDB">
   <img src="https://img.shields.io/badge/-GraphQL-720404?logo=graphql&logoColor=E10098&style=for-the-badge&logoWidth=50" alt="GraphQL">
-  <img src="https://img.shields.io/badge/-Docker-720404?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=50" alt="Docker">
+  <img src="https://img.shields.io/badge/-tRPC-720404?logo=trpc&logoColor=2596BE&style=for-the-badge&logoWidth=50" alt="tRPC">  
+  </br>
   <img src="https://img.shields.io/badge/-Ethereum-720404?logo=ethereum&logoColor=3C3C3D&style=for-the-badge&logoWidth=50" alt="Ethereum">
   <img src="https://img.shields.io/badge/-Web3.js-720404?logo=web3.js&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Web3.js">
-  <img src="https://img.shields.io/badge/-p5.js-720404?logo=p5.js&logoColor=ED225D&style=for-the-badge&logoWidth=50" alt="p5.js">
 </div>
 
 ## 💎 Coder Stats

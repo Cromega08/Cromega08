@@ -68,6 +68,8 @@ You can find me 🖖 or contact me 🤙 at 👇
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-720404?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=50" alt="React">
+  <img src="https://img.shields.io/badge/-Vue-720404?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=50" alt="Vue">
+  <img src="https://img.shields.io/badge/-Vuetify-720404?logo=vuetify&logoColor=1867C0&style=for-the-badge&logoWidth=50" alt="Vuetify">
   <img src="https://img.shields.io/badge/-Swing-720404?logo=swing&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Swing">
   </br>
   <img src="https://img.shields.io/badge/-Bootstrap-720404?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=50" alt="Bootstrap">

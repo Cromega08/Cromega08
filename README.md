@@ -29,14 +29,19 @@ You can find me or contact me at:
   </a>
 </div>
 
+</br>
+
+<div align="center">
+  <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/breakpoint.png?raw=true" alt="Breakpoint"/>
+</div>
+
 ## Skills
 
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cromega08&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
-  
 </div>
 
-### 📘 Experienced Languages 
+### > Experienced Languages 
 ---
 
 <div align="center">
@@ -48,7 +53,7 @@ You can find me or contact me at:
   <img src="https://img.shields.io/badge/-Markdown-720404?logo=markdown&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Markdown">
 </div>
 
-### 📗 Low Experience Languages
+### > Low Experience Languages
 ---
 
 <div align="center">
@@ -59,7 +64,7 @@ You can find me or contact me at:
   <img src="https://img.shields.io/badge/-SHELL-720404?style=for-the-badge&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=50" alt="SHELL">
 </div>
 
-### ⚛️ Frameworks
+### > Frameworks
 ---
 
 <div align="center">
@@ -75,7 +80,7 @@ You can find me or contact me at:
   <img src="https://img.shields.io/badge/-Swing-720404?logo=openjdk&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Swing">
 </div>
 
-### 📑 DB
+### > DB
 ---
 
 <div align="center">
@@ -86,7 +91,7 @@ You can find me or contact me at:
   <img src="https://img.shields.io/badge/-MongoDB-720404?logo=mongodb&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="MongoDB">
 </div>
 
-### 🧰 Tools
+### > Tools
 ---
 
 <div align="center">
@@ -96,7 +101,7 @@ You can find me or contact me at:
   <img src="https://img.shields.io/badge/-Maven-720404?logo=apache maven&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Maven">
 </div>
 
-### 💻 Software
+### > Software
 ---
 
 <div align="center">
@@ -116,7 +121,7 @@ You can find me or contact me at:
   <img src="https://img.shields.io/badge/-Genymotion-720404?logo=dbeavercode&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Genymotion">
 </div>
 
-### 🖥️ OS I worked with
+### > OS I worked with
 ---
 <div align="center">
   <img src="https://img.shields.io/badge/-Android-720404?logo=android&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Android">
@@ -124,19 +129,31 @@ You can find me or contact me at:
   <img src="https://img.shields.io/badge/-Windows-720404?logo=windows&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Windows">
 </div>
 
-## 💎 Coder Stats
+</br>
+
+<div align="center">
+  <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/breakpoint.png?raw=true" alt="Breakpoint"/>
+</div>
+
+## Coder Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cromega08&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="Cromega GitHub stats" />
 </div>
 
+</br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cromega08&theme=dark&hide_border=false" alt="Cromega Github Streak"/>
 </div>
 
----
+</br>
 
-## 🤴 Curiosities About Me
+<div align="center">
+  <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/breakpoint.png?raw=true" alt="Breakpoint"/>
+</div>
+
+## Curiosities About Me
 
 🖤 As said before, I love the knowledge 📖, try to learn everything I can 📚, sometimes very disastrously 😵‍💫. Don't have an specific topic, know from economics to philosophy, astronomy, physics, languages and multitude of subjects 👨‍🔬 (not an expert, but as a general culture thing).
 <br/><br/>
@@ -156,9 +173,10 @@ You can find me or contact me at:
   
 👑
 > _天上天下唯我独尊_ <br/> _tenjou tenge yui ga dokuson_ <br/> _Entre el cielo y la tierra, solo estoy yo_ <br/> _Between heaven and earth, there's only me_ <br/> **- _Buda_ -**<br/>
-
 👹
 </div>
+
+</br>
 
 <div align="center">
   <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/Footer.png?raw=true" alt="Cromega Footer"/>

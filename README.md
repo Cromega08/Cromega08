@@ -16,24 +16,24 @@ You can find me 🖖 or contact me 🤙 at 👇
 
 <div align="center">
   <a href="https://www.github.com/cromega08" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=181717&style=for-the-badge&logoWidth=50" alt="Github">
+    <img src="https://img.shields.io/badge/-Github-720404?logo=github&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Github">
   </a>
   <a href="https://www.linkedin.com/in/crjrg/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-720404?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=50" alt="Github">
+    <img src="https://img.shields.io/badge/-LinkedIn-720404?logo=linkedin&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Github">
   </a>
   <a href="https://www.codepen.io/cromega08" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-CodePen-720404?logo=codepen&logoColor=000000&style=for-the-badge&logoWidth=50" alt="CodePen">
+    <img src="https://img.shields.io/badge/-CodePen-720404?logo=codepen&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="CodePen">
   </a>
-  <a href="https://hashnode.com/@Cromega08" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Hashnode-720404?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=50" alt="Hashnode">
+  <a href="mailto:cr.jrg08@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-cr.jrg08@gmail.com-720404?logo=gmail&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&style=for-the-badge&logoWidth=50" alt="Gmail">
   </a>
-    <img src="https://img.shields.io/badge/-cr.jrg08@gmail.com-720404?logo=gmail&logoColor=EA4335&style=for-the-badge&logoWidth=50" alt="Gmail">
 </div>
 
 ## 📚 Skills
 
 <div align="center">
-  <a href="https://github.com/cromega08" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cromega08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cromega08&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
+  
 </div>
 
 ### 📘 Experienced Languages 
@@ -126,56 +126,17 @@ You can find me 🖖 or contact me 🤙 at 👇
   <img src="https://img.shields.io/badge/-Windows-720404?logo=windows&logoColor=0078D6&style=for-the-badge&logoWidth=50" alt="Windows">
 </div>
 
-### 📓 Interested in learning
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-720404?logo=kotlin&logoColor=F52FF&style=for-the-badge&logoWidth=50" alt="Kotlin">
-  <img src="https://img.shields.io/badge/-TypeScript-720404?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=50" alt="Typescript">
-  <img src="https://img.shields.io/badge/-Solidity-720404?logo=solidity&logoColor=363636&style=for-the-badge&logoWidth=50" alt="Solidity">
-  <img src="https://img.shields.io/badge/-Zig-720404?logo=zig&logoColor=F7A41D&style=for-the-badge&logoWidth=50" alt="Zig">
-  <img src="https://img.shields.io/badge/-Go-720404?logo=go&logoColor=00ADD85&style=for-the-badge&logoWidth=50" alt="Go">
-  <img src="https://img.shields.io/badge/-Elm-720404?logo=elm&logoColor=1293D8&style=for-the-badge&logoWidth=50" alt="Elm">
-  </br>
-  <img src="https://img.shields.io/badge/-PostCSS-720404?logo=postcss&logoColor=DD3A0A&style=for-the-badge&logoWidth=50" alt="postcss">
-  <img src="https://img.shields.io/badge/-Sass-720404?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=50" alt="Sass">
-  </br>
-  <img src="https://img.shields.io/badge/-Angular-720404?logo=angular&logoColor=DD0031&style=for-the-badge&logoWidth=50" alt="Angular">
-  <img src="https://img.shields.io/badge/-Spring-720404?logo=spring&logoColor=6DB33F&style=for-the-badge&logoWidth=50" alt="Spring">
-  
-  </br>
-  <img src="https://img.shields.io/badge/-Material Design-720404?logo=material design&logoColor=757575&style=for-the-badge&logoWidth=50" alt="Material Design">
-  <img src="https://img.shields.io/badge/-MUI-720404?logo=mui&logoColor=007FFF&style=for-the-badge&logoWidth=50" alt="MUI">
-  <img src="https://img.shields.io/badge/-p5.js-720404?logo=p5.js&logoColor=ED225D&style=for-the-badge&logoWidth=50" alt="p5.js">
-  </br>
-  <img src="https://img.shields.io/badge/-Deno-720404?logo=deno&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Deno">
-  <img src="https://img.shields.io/badge/-Docker-720404?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=50" alt="Docker">
-  </br>
-  <img src="https://img.shields.io/badge/-SurrealDB-720404?logo=surrealdb&logoColor=FF00A0&style=for-the-badge&logoWidth=50" alt="SurrealDB">
-  <img src="https://img.shields.io/badge/-GraphQL-720404?logo=graphql&logoColor=E10098&style=for-the-badge&logoWidth=50" alt="GraphQL">
-  <img src="https://img.shields.io/badge/-tRPC-720404?logo=trpc&logoColor=2596BE&style=for-the-badge&logoWidth=50" alt="tRPC">  
-  </br>
-  <img src="https://img.shields.io/badge/-Ethereum-720404?logo=ethereum&logoColor=3C3C3D&style=for-the-badge&logoWidth=50" alt="Ethereum">
-  <img src="https://img.shields.io/badge/-Web3.js-720404?logo=web3.js&logoColor=000000&style=for-the-badge&logoWidth=50" alt="Web3.js">
-</div>
-
 ## 💎 Coder Stats
 
 <div align="center">
-  <a href="http://www.github.com/cromega08"><img src="https://github-readme-stats.vercel.app/api?username=cromega08&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="cromega08's GitHub stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cromega08&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="Cromega GitHub stats" />
 </div>
 
-<!-- --- -->
-
 <div align="center">
-  <a href="http://www.github.com/cromega08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cromega08&stroke=a855f7&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cromega08&theme=dark&hide_border=false" alt="Cromega Github Streak"/>
 </div>
 
 ---
-
-<div align="center">
-  <a href="http://www.github.com/cromega08"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cromega08&bg_color=1c1917&color=a855f7&line=6366f1&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=Cromega%20Commits%20Graph" alt="Cromega Commits Graph" /></a>
-</div>
 
 ## 🤴 Curiosities About Me
 
@@ -199,6 +160,9 @@ You can find me 🖖 or contact me 🤙 at 👇
 > _天上天下唯我独尊_ <br/> _tenjou tenge yui ga dokuson_ <br/> _Entre el cielo y la tierra, solo estoy yo_ <br/> _Between heaven and earth, there's only me_ <br/> **- _Buda_ -**<br/>
 
 👹
-
-  <img src="https://media.tenor.com/Tr_v0-toZkoAAAAd/sakuna-fool.gif" alt="Know Your Place" title="Know Your Place"/>
 </div>
+
+<div align="center">
+  <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/Footer.png?raw=true" alt="Cromega Footer"/>
+</div>
+

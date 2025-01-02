@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/cromega_banner.png?raw=true" alt="Cromega Footer"/>
+  <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/Cromega_Banner.png?raw=true" alt="Cromega Banner"/>
 </div>
 
 # 👑 Cromega: Superbus et Hedonistic~

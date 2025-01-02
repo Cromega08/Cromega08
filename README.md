@@ -4,13 +4,15 @@
 
 # Cromega: Superbus et Hedonistic~
 
-I'm a Jr. Developer specialized in FullStack and Android Development.
+Hello, everyone.
+
+I'm Cromega, an "Android, Desktop and Web Developer", or "Multiplatform Developer" if want to abbreviate.
 
 I have a strong interest in building projects that are accessible to everyone and have a planned and meaningful aesthetic.
 
 Learning new things is my passion, I have an obsession for knowledge in general that drives me as much as I can in all fields of my interest.
 
-In the short term I'm improving my knowledge in web and related, to make the leap to Web3/DApps/Blockchain technologies.
+But, Im' focusing myself in improving my current skills, putting aside the dispersion and deeply learning one thing at the time.
 
 You can find me or contact me at:
 
@@ -153,26 +155,14 @@ You can find me or contact me at:
   <img src="https://github.com/cromega08/Cromega08/blob/main/imgs/breakpoint.png?raw=true" alt="Breakpoint"/>
 </div>
 
-## Curiosities About Me
-
-🖤 As said before, I love the knowledge 📖, try to learn everything I can 📚, sometimes very disastrously 😵‍💫. Don't have an specific topic, know from economics to philosophy, astronomy, physics, languages and multitude of subjects 👨‍🔬 (not an expert, but as a general culture thing).
-<br/><br/>
-💻 I started in coding learning Data-Science with Python, and just tried HTML/CSS because (supposedly 🙄) "Every developer should know HTML/CSS/JS", but ended in love with UI/UX design 👨‍🎨. This is an example of how I jump from topic to topic while learning 😆.
-<br/><br/>
-💬 I speak Spanish 🔤 and English 🇺🇸, and the most basics of French 🇫🇷. Spanish is my language of birth 🇻🇪, English is the language I do everything in my daily life 🌇, and French is an investment in my life plan ✈️.
-<br/><br/>
-👓 I am quite erudite, was the recipient of a scholarship 👨‍🎓 and the best state test 📄 in my high school graduation (top 50 in my city 🏙️).
-<br/><br/>
-🎓 I have 4 technical degrees: 2️⃣ Two that I studied while I was in secondary school and high school 🏫, oriented towards administration, finance and marketing 👨‍💼; and other 2️⃣ two thanks to my scholarship, centered in Android Development and Web Development 👨‍💻.
-<br/><br/>
-🫰 On things of absolute leisure, I love anime 📺, manga 📙, videogames 👾 and asian dramas 👩‍❤️‍💋‍👨, but not obsessed with Asia 🌏.
-<br/><br/>
-🥫 I love food too, specially sweet 🍰 and fried 🍤 things; but also other things as chocolate 🍫, pizza 🍕, burger 🍔, sushi 🍣, and many drinks 🥛 (but not alcoholic drinks 🥃, thats are disgusting 🤮).
+</br>
 
 <div align="center">
   
 👑
+
 > _天上天下唯我独尊_ <br/> _tenjou tenge yui ga dokuson_ <br/> _Entre el cielo y la tierra, solo estoy yo_ <br/> _Between heaven and earth, there's only me_ <br/> **- _Buda_ -**<br/>
+
 👹
 </div>
 

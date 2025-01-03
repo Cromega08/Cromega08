@@ -140,7 +140,7 @@ You can find me or contact me at:
 ## Coder Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cromega08&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="Cromega GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cromega08&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Cromega GitHub stats" />
 </div>
 
 </br>
